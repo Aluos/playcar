@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--主题颜色 文字中时候颜色-->
+    <color name="red_base">#FB5B81</color>
+    <!-- 文字默认颜色-->
+    <color name="theme_default">#7D7E81</color>
+    <!--白色-->
+    <color name="white">#ffffff</color>
+
+    <color name="theme_bg">#EFEFF4</color>
+
+    <color name="app_line">#ededed</color>
+
+
+    <!--主题颜色-->
+    <color name="app_theme">#83bb00</color>
+
+    <!--主题颜色-->
+    <color name="app_theme_this">#83bb00</color>
+
+    <!--主题淡色-->
+    <color name="app_theme_copy">#bcdb75</color>
+
+    <!--主题淡色2-->
+    <color name="app_theme_copy_two">#edfbcd</color>
+
+
+    <!--字体颜色-->
+    <color name="app_text_color">#695522</color>
+
+    <!--字体颜色-->
+    <color name="app_text_color_dan_one">#665426</color>
+
+    <color name="app_bg">#eeeeee</color>
+
+    <!--字体颜色-->
+    <color name="app_theme_line">#86bd07</color>
+
+
+    <!--加油    主题-->
+    <color name="save_comeon">#83bb00</color>
+    <!--洗车-->
+    <color name="save_car_wash">#9dd41d</color>
+    <!--停车-->
+    <color name="save_stop_car">#b6ea3d</color>
+    <!--违章-->
+    <color name="save_break_rule">#d1fd6c</color>
+    <!--车品-->
+    <color name="save_car_goods">#fcd55c</color>
+    <!--保养-->
+    <color name="save_car_maintain">#f7e495</color>
+    <!--维修-->
+    <color name="save_car_service">#fdedac</color>
+    <!--车险-->
+    <color name="save_car_insurance">#ff8b8b</color>
+    <!--代驾-->
+    <color name="save_replace_driving">#fab6b7</color>
+    <!--车贷-->
+    <color name="save_car_loan">#e73d14</color>
+    <!--过路-->
+    <color name="save_car_pass_way">#fac515</color>
+    <!--其他-->
+    <color name="save_car_other">#fed7d8</color>
+    <!--字体颜色-->
+    <color name="save_car_text_color">#382e15</color>
+    <!--字体颜色deafult-->
+    <color name="save_car_title_text">#665424</color>
+    <!--字体颜色selectTitle-->
+    <color name="save_car_select_title_text">#e73d14</color>
+    <!--index 黄色-->
+    <color name="index_yellow">#fac515</color>
+
+    <color name="play_myself_text">#665426</color>
+
+    <color name="play_myself_text_normal">#382e15</color>
+
+    <!--全透明-->
+    <color name="transparent">#00000000</color>
+
+
+    <!--加油    主题-->
+    <color name="login_green">#76db84</color>
+
+    <color name="my_back_login_btn_bg">#bcdb73</color>
+    <color name="gree_car_bg">#bcdb74</color>
+
+    <color name="black">#000000</color>
+
+    <color name="grey_text">#C9C7C8</color>
+
+    <color name="text_color">#382e15</color>
+
+    <color name="text_color_success">#9CC743</color>
+
+
+    <!-- 浅灰色 -->
+    <color name="general_text_color4">#d2d4d9</color>
+    <color name="app_bantouming">#7f7f7f</color>
+
+    <color name="app_danhuang">#FDF3DE</color>
+    <color name="app_danhuang_progerees_text">#E65F4A</color>
+
+
+
+
+    <!--必有车-->
+    <color name="btn_yellow">#fff4cd</color>
+    <!-- loading框文字颜色 -->
+    <color name="navpage">#FFE1E8EB</color>
+    <color name="dark">#eeeeee</color>
+    <color name="transparent_thirty_percent">#4C000000</color>
+    <color name="transparent_fifty_percent">#80000000</color>
+    <color name="transparent_sixty_percent">#A3000000</color>
+    <color name="transparent_seventy_percent">#B2000000</color>
+    <color name="transparent_eighty_percent">#CC000000</color>
+    <color name="general_background_color">#ffffff</color>
+    <color name="general_title_background">#e77d73</color>
+    <color name="general_title_text_color">#DE7346</color>
+    <color name="general_dividing_line_color">#bdbdbd</color>
+    <!-- 灰色 -->
+    <color name="general_text_color">#5b5b5b</color>
+    <!-- 浅黑色 -->
+    <color name="general_text_color2">#3e3e3e</color>
+    <!-- 橘红色 -->
+    <color name="general_text_orange">#f46d2d</color>
+    <!-- 浅灰色 -->
+    <!-- 淡灰色 -->
+    <color name="general_light_grey">#f4f3f3</color>
+    <color name="menu_text_color_selected">#189acc</color>
+    <color name="menu_text_color_normal">#7F7F7F</color>
+
+
+    <color name="menu_text_color_normal_gg">#e7e7e7</color>
+    <!-- general -->
+    <!-- 横，竖线-->
+    <color name="general_view_line">#ccc3a3</color>
+    <!-- loading框背景颜色 -->
+    <!--     <color name="general_loading_bg_color">#eCf5f5f5</color> -->
+    <color name="general_loading_bg_color">#bbffffff</color>
+    <!-- loading框文字颜色 -->
+    <color name="general_loading_text_color">#3F404D</color>
+    <!-- loading框ProgressBar颜色 -->
+    <color name="general_loading_progressbar_color">#3F404D</color>
+    <!-- 状态栏颜色 -->
+    <color name="statusbar_general_color">@color/general_title_background</color>
+
+    <!-- 涟漪效果默认颜色 -->
+    <color name="rippelColor">#a7a7a7</color>
+
+    <!-- materia loadding -->
+    <color name="red">#FFC93437</color>
+    <color name="blue">#3492e9</color>
+    <color name="yellow">#FFF7D23E</color>
+    <color name="green">#FF34A350</color>
+
+    <!--本项目常用颜色-->
+    <color name="btn_crimson">#8d2427</color>
+    <!-- 棕黄色 -->
+    <color name="bg_yellow">#ccc3a3</color>
+    <color name="background_tab_pressed">#dcdcdc</color>
+    <color name="custom_green">#FAAB1F</color>
+    <color name="blue_bg">#189acc</color>
+    <color name="blue_wo_bg">#1fa0cf</color>
+    <color name="gray_bg">#437b8d</color>
+
+    <color name="corners_zijia">#FF922B</color>
+
+
+    <color name="background">#FF000000</color>
+    <color name="pink_red">#F63E2A</color>
+    <color name="bulegray">#f0f0f0</color>
+    <color name="gray">#828282</color>
+    <color name="graylight">#cccccc</color>
+    <color name="orange">#FF6600</color>
+    <color name="orange_light">#fdaa0b</color>
+    <color name="gold">#ffd700</color>
+    <color name="semitransparent">#90000000</color>
+    <color name="nearly_hard">#97000000</color>
+    <color name="font_focus">#D7F679</color>
+    <color name="gold_player">#F7F466</color>
+    <color name="divider_line">#FF575757</color>
+
+    <color name="listview_item_normal">#eef0ed</color>
+    <color name="listview_item_pressed">#d4d4d4</color>
+
+    <color name="message_checked">#90918f</color>
+    <color name="message_no_check">#323232</color>
+
+    <color name="stick_color_bg">#e2e2e2</color>
+
+
+    <!--颜色设置-->
+    <!--app 常用的颜色值-->
+    <color name="app_index_bule">#23b0cb</color>
+    <color name="app_yellow">#e7bc24</color>
+    <color name="app_orange">#e37b6f</color>
+    <color name="app_black">#333333</color>
+    <color name="app_meddle_grey">#666666</color>
+    <color name="app_grey">#999999</color>
+    <color name="app_bg2">#ffffff</color>
+
+    <color name="app_titletext">#e37b6f</color>
+    <color name="app_half_black">#7f7f7f</color>
+
+    <color name="app_grey_text">#868686</color>
+    <color name="app_grey_text2">#666666</color>
+    <color name="app_grey_sixsix">#666666</color>
+    <color name="app_pro_night">#999999</color>
+    <color name="app_pro_therethere">#333333</color>
+
+
+    <color name="app_kemu_banner_select">#b5b5b5</color>
+    <color name="app_kemu_banner_normal">#eeeeee</color>
+
+
+    <color name="app_pro_duoxuan_btn">#d9d9d9</color>
+    <!--<color name="app_pro_fenshe">#f15789</color>-->
+    <color name="app_pro_fenshe">#f62967</color>
+    <color name="app_pro_question_item_bg">#999999</color>
+    <color name="app_pro_chapter_title_text">#333333</color>
+
+    <color name="app_pro_fenshe1">#e60b4d</color>
+    <color name="app_pro_proper">#3768f3</color>
+    <color name="app_pro_black_half">#99000000</color>
+    <color name="app_pro_black_error">#030303</color>
+    <color name="app_pro_quantouming">#00000000</color>
+    <color name="app_pro_text_jiusijiusi">#949494</color>
+
+    <color name="app_pro_text_car_real_text">#2D2309</color>
+    <color name="app_pro_text_car_text">#544E40</color>
+    <color name="text_bule">#0F8BE6</color>
+    <color name="darkgrey"> #C0C0C0</color>
+</resources>
